@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F20EF1BD-104C-4E17-8D19-71B94A596281</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TalentTrail</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33EE8FB28227AAF03833167ADC0FD90641708F4F</key>
+		<string>https://bitbucket.org/talenttrail/ios-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TalentTrail.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33EE8FB28227AAF03833167ADC0FD90641708F4F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/talenttrail/ios-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>33EE8FB28227AAF03833167ADC0FD90641708F4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33EE8FB28227AAF03833167ADC0FD90641708F4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TalentTrail</string>
+		</dict>
+	</array>
+</dict>
+</plist>
